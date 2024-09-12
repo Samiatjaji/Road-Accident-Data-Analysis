@@ -5,9 +5,11 @@
 This data analysis project aims to provide insights into the road accidents that occurred in the year 2021 and 2022 in the United Kingdom. By analyzing various KPIs, i seek to identify trends, make data-driven recommendations and gain a deeper understanding of the
 
 ## Dataset used
-Road Accident Data: The primary data used for this analysis is the "   .xls" file, containing detailed informatiom about each road accidents that occurred during 2021 and 2022
+Road Accident Data: The primary data used for this analysis is the "Road Accident Data.xlsx" file, containing detailed informatiom about each road accidents that occurred during 2021 and 2022
 
 -  https://github.com/Samiatjaji/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dataset.xlsx
+
+Dirty Dataset
 
 - https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view
 ## Tools
@@ -36,6 +38,7 @@ EDA involved exploring the sales data to answer the key questions, such as:
 - Report/ Dashboard creation from start to end
   
 ## Dashboard
+![Road Accident Dashboard](https://github.com/user-attachments/assets/66bf5e34-c3c4-4b2e-a504-c5b89167fe53)
 
 ## Dashboard Interaction
 
