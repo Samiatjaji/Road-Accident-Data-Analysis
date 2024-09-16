@@ -1,15 +1,18 @@
 # Road-Accident-Data-Analysis (Interactive Dashboard using MS Excel)
 
-project overview 
-dataset used
-tools
-exploratory data analysis 
-process
-dashboard 
-dashboard interaction
-project insight
-recommendations 
-conclusion 
+## Table of contents 
+
+[Project Overview](#project-overview)
+[Dataset used](#dataset-used)
+[Tools](#tools)
+[Exploratory Data Analysis (KPIs)](#exploratory-data-analysis)
+[Process](#process)
+[Dashboard](#dashboard)
+[Dashboard Interaction](#dashboard-interaction)
+[Project Insight](#project-insight)
+[Recommendations](#recommendations)
+[Conclusion](#conclusion)
+
 ## Project Overview
 
 This data analysis project aims to provide insights into the road accidents that occurred in the year 2021 and 2022 in the United Kingdom. By analyzing various KPIs, i seek to identify trends, make data-driven recommendations.
