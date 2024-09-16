@@ -2,8 +2,8 @@
 
 ## Table of contents 
 
--[Project Overview](#project-overview) 
--[Dataset used](#dataset-used) 
+- [Project Overview](#project-overview) 
+- [Dataset used](#dataset-used) 
 -[Tools](#tools) 
 -[Exploratory Data Analysis (KPIs)](#exploratory-data-analysis) 
 -[Process](#process) 
