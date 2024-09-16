@@ -3,22 +3,14 @@
 ## Table of contents 
 
 [Project Overview](#project-overview)  
-[Dataset used](#dataset-used)
-
-[Tools](#tools)
-
-[Exploratory Data Analysis (KPIs)](#exploratory-data-analysis)
-
-[Process](#process)
-
-[Dashboard](#dashboard)
-
-[Dashboard Interaction](#dashboard-interaction)
-
-[Project Insight](#project-insight)
-
-[Recommendations](#recommendations)
-
+[Dataset used](#dataset-used) 
+[Tools](#tools) 
+[Exploratory Data Analysis (KPIs)](#exploratory-data-analysis) 
+[Process](#process) 
+[Dashboard](#dashboard) 
+[Dashboard Interaction](#dashboard-interaction) 
+[Project Insight](#project-insight) 
+[Recommendations](#recommendations) 
 [Conclusion](#conclusion)
 
 ## Project Overview
