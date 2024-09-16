@@ -2,8 +2,7 @@
 
 ## Table of contents 
 
-[Project Overview](#project-overview)
-
+[Project Overview](#project-overview)  
 [Dataset used](#dataset-used)
 
 [Tools](#tools)
