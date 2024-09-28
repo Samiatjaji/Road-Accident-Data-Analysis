@@ -51,7 +51,8 @@ EDA involved exploring the sales data to answer the key questions, such as:
 - Report/ Dashboard creation from start to end
   
 ## Dashboard
-![Road Accident Dashboard](https://github.com/user-attachments/assets/66bf5e34-c3c4-4b2e-a504-c5b89167fe53)
+![Road Accident Dashboard](https://github.com/user-attachments/assets/bbb14f95-83b2-4d30-9b2b-6d0e44d2e510)
+
 
 ## Dashboard Interaction
 https://github.com/Samiatjaji/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Interactive%20Dashboard.xlsx
