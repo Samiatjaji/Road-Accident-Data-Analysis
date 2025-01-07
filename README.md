@@ -14,7 +14,6 @@
 - [Conclusion](#conclusion)
 
 ## Project Overview
-
 This data analysis project aims to provide insights into the road accidents that occurred in the year 2021 and 2022 in the United Kingdom. By analyzing various KPIs, i seek to identify trends, make data-driven recommendations.
 
 ## Dataset used
